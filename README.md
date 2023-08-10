@@ -7,14 +7,17 @@ Este proyecto fue creado con Vite y utiliza React, TypeScript y la biblioteca An
 1. Clonar este repositorio en tu computadora local:
    ```bash
    git clone https://github.com/UrieelMM/rick-and-morty.git
-Navegar al directorio del proyecto:
-cd tu-repositorio
+2. Navegar al directorio del proyecto:
+   ```bash
+   cd tu-repositorio
 
-Instalar las dependencias:
-npm install
+3. Instalar las dependencias:
+   ```bash
+   npm install
 
-Iniciar la aplicación en modo de desarrollo:
-npm run dev
+4. Iniciar la aplicación en modo de desarrollo:
+   ```bash
+   npm run dev
 
 Abrir tu navegador web y acceder a la dirección http://127.0.0.1:5173/ para ver la aplicación en funcionamiento.
 
@@ -23,10 +26,17 @@ Lista de personajes de Rick and Morty con paginación.
 Búsqueda de personajes por nombre o especie.
 Detalles de personajes que incluyen género, estado y origen en un modal.
 Interfaz desarrollada con Ant Design.
+
 Estructura de Archivos
-src/components: Contiene los componentes de la aplicación.
-src/App.tsx: Componente principal de la aplicación.
-src/main.tsx: Punto de entrada de la aplicación.
+src/components: 
+Contiene los componentes de la aplicación.
+
+src/App.tsx: 
+Componente principal de la aplicación.
+
+src/main.tsx: 
+Punto de entrada de la aplicación.
+
 ### Dependencias Principales
 React
 TypeScript
