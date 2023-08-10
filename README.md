@@ -6,23 +6,16 @@ Este proyecto fue creado con Vite y utiliza React, TypeScript y la biblioteca An
 
 1. Clonar este repositorio en tu computadora local:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/UrieelMM/rick-and-morty.git
 Navegar al directorio del proyecto:
-
-bash
-Copy code
 cd tu-repositorio
+
 Instalar las dependencias:
-
-bash
-Copy code
 npm install
-Uso
-Iniciar la aplicación en modo de desarrollo:
 
-bash
-Copy code
+Iniciar la aplicación en modo de desarrollo:
 npm run dev
+
 Abrir tu navegador web y acceder a la dirección http://127.0.0.1:5173/ para ver la aplicación en funcionamiento.
 
 ## Funcionalidades
